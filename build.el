@@ -39,5 +39,5 @@
 
 (message "Starting now")
 (org-publish-all)
-(message "Done!")
+(message "Done! ")
 
