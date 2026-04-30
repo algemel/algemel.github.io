@@ -22,7 +22,7 @@
     :html-head-include-scripts nil 
     :html-head "<link rel=\"stylesheet\" href=\"mi.css\">"
     :html-preamble nil
-    :html-postamble-format (("en" "Last modified: %C."))
+    :html-postamble-format (("en" "Last modified: %C UTC."))
     :html-postamble t
     )
    ("website-static"
