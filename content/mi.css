@@ -23,6 +23,7 @@ main,
 header,
 footer {
   margin: 1em 0;
+  font-size: 50%;
 }
 
 /*------*/
