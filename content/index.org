@@ -8,6 +8,7 @@
 - Gianluca Faraco (Monash)
 - Christian Haesemeyer (Unimelb)
 - Caleb Ji (UNSW)
+- Ian Le (ANU)
 - Yixuan Li (ANU)
 - Svetlana Makarova (ANU)
 - Scott Mullane (Unimelb)
