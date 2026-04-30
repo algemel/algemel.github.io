@@ -1,5 +1,5 @@
 #+title: Algebraic Geometry in Melbourne 
-#+subtitle: July 8-10, 2026
+#+subtitle: July 8--10, 2026
 
 * Speakers
 
