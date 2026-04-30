@@ -1,8 +1,9 @@
 #+title: Algebraic Geometry in Melbourne 
-#+subtitle: July 8--10, 2026
+#+subtitle: 2026 July 8--10
 
 * Speakers
 
+- James Borger (ANU)
 - Dougal Davis (Unimelb)
 - Gianluca Faraco (Monash)
 - Christian Haesemeyer (Unimelb)
