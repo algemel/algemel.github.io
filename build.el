@@ -12,7 +12,7 @@
     :publishing-function org-html-publish-to-html
     :section-numbers nil
     :with-broken-links nil
-    :with-toc nil
+    :with-toc t
     :with-title t
     :with-author t
     :with-special-strings t
@@ -20,20 +20,20 @@
     :with-emphasize t
     :html-head-include-default-style nil
     :html-head-include-scripts nil 
-          :html-head "<link rel=\"stylesheet\" href=\"/css/main.css\"><link href=\"https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=B612:wght@300..700&display=swap\" rel=\"stylesheet\"><script src=\"/js/collapsibility.js\"></script>"
-          :html-preamble nil
-          :html-postamble-format (("en" "Created by %c.  Last modified: %C."))
-          :html-postamble t
-          )
-         ("website-static"
-          :base-directory "./content"
-          :base-extension ".*"
-          :exclude "\#.*\\|.*\.org"
-          :publishing-directory "./docs"
-          :recursive t
-          :publishing-function org-publish-attachment
-	  )
-         )
+    :html-head "<link rel=\"stylesheet\" href=\"mi.css\">"
+    :html-preamble nil
+    :html-postamble-format (("en" "Last modified: %C."))
+    :html-postamble t
+    )
+   ("website-static"
+    :base-directory "./content"
+    :base-extension ".*"
+    :exclude "\#.*\\|.*\.org"
+    :publishing-directory "./docs"
+    :recursive t
+    :publishing-function org-publish-attachment
+    )
+   )
  make-backup-files nil
  noninteractive t)
 
