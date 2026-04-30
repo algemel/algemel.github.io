@@ -23,7 +23,6 @@ main,
 header,
 footer {
   margin: 1em 0;
-  font-size: 50%;
 }
 
 /*------*/
@@ -129,4 +128,8 @@ li {
 		url("title.png");
     padding: 1em;
     color: ghostwhite;
+}
+
+.postamble{
+    font-size: 50%;
 }
