@@ -1,5 +1,11 @@
 #+title: Algebraic Geometry in Melbourne 
-#+subtitle: 2026 July 8--10
+#+subtitle: 8--10 July 2026 
+
+* Venue
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+The University of Melbourne
 
 * Speakers
 
@@ -14,12 +20,13 @@
 - Svetlana Makarova (ANU)
 - Scott Mullane (Melbourne)
 - Uri Onn (ANU)
-- Fei Penge(Melbourne)
+- Fei Peng (Melbourne)
 - Behrouz Taji (UNSW)
 - Bailey Whitbread (UQ)
 - Yaping Yang (Melbourne)
 
 * Schedule
+
 TBA
 
 * Registration
