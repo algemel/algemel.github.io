@@ -123,9 +123,8 @@ li {
 }
 
 .title{
-    background: linear-gradient(rgba(0,0,0,0.35),
-				rgba(0,0,0,0.35)),
-		url("title.png");
+    background: url("title.png");
+    background-postion: center;
     padding: 1em;
     color: ghostwhite;
 }

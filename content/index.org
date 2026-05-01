@@ -4,16 +4,16 @@
 * Speakers
 
 - James Borger (ANU)
-- Dougal Davis (Unimelb)
+- Dougal Davis (Melbourne)
 - Gianluca Faraco (Monash)
-- Christian Haesemeyer (Unimelb)
+- Christian Haesemeyer (Melbourne)
 - Caleb Ji (UNSW)
 - Yixuan Li (ANU)
 - Svetlana Makarova (ANU)
-- Scott Mullane (Unimelb)
+- Scott Mullane (Melbourne)
 - Behrouz Taji (UNSW)
 - Bailey Whitbread (UQ)
-- Yaping Yang (Unimelb)
+- Yaping Yang (Melbourne)
 
 * Schedule
 TBA
@@ -24,6 +24,9 @@ If you want to attend, please [[mailto:anand.deopurkar@anu.edu.au?subject=%5BAlg
 We are not sure if we can offer any financial support.
 
 * Organisers
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 
 - Anand Deopurkar (ANU)
 - Jack Hall (Unimelb)
@@ -33,5 +36,5 @@ We are not sure if we can offer any financial support.
 :PROPERTIES:
 :UNNUMBERED: notoc
 :END:
-This event is supported in part by funds from the /Australian Research Council/.
+This event is supported in part by funds from the Australian Research Council.
 
