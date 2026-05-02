@@ -40,8 +40,8 @@ We are not sure if we can offer any financial support.
 :END:
 
 - Anand Deopurkar (ANU)
-- Jack Hall (Unimelb)
-- Paul Norbury (Unimelb)
+- Jack Hall (Melbourne)
+- Paul Norbury (Melbourne)
 
 * Thanks
 :PROPERTIES:
