@@ -13,7 +13,6 @@ The University of Melbourne
 
 * Speakers
 
-- James Borger (ANU)
 - Dougal Davis (Melbourne)
 - Gianluca Faraco (Monash)
 - Christian Haesemeyer (Melbourne)
@@ -28,6 +27,7 @@ The University of Melbourne
 - Behrouz Taji (UNSW)
 - Bailey Whitbread (Sydney)
 - Yaping Yang (Melbourne)
+- Gufang Zhao (Melbourne)
 
 * Schedule
 
