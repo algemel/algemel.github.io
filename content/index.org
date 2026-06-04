@@ -2,7 +2,7 @@
 #+subtitle: 8--10 July 2026 
 
 #+begin_announcement
-[[file:poster.pdf][Here is a poster (PDF, 6.1MB)]] to advertise this event.
+[[file:poster.pdf][Here is a poster (PDF, about 5 MB)]] to advertise this event.
 #+end_announcement
 
 * Venue
