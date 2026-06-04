@@ -1,7 +1,14 @@
-| Name             | Uni      | Supervisor      | Wants financial support? |
-|------------------+----------+-----------------+--------------------------|
-| Stefano Giannini | Adelaide | Finnur Larusson | Yes                      |
-| Dominic Matan    | UNSW     | Daniel Chan     | Yes                      |
-| Snehinh Sen      | ANU      | James Borger    | Yes                      |
-| Leyao Zha        | UNSW     |                 | Yes                      |
+| Name             | Uni       | Supervisor      | Wants financial support? |
+|------------------+-----------+-----------------+--------------------------|
+| Stefano Giannini | Adelaide  | Finnur Larusson | Yes                      |
+| Dominic Matan    | UNSW      | Daniel Chan     | Yes                      |
+| Snehinh Sen      | ANU       | James Borger    | Yes                      |
+| Leyao Zha        | UNSW      |                 | Yes                      |
+| Junjie Chen      | Melbourne | Jack Hall       | No                       |
+| Peter McNamara   | Melbourne |                 | No                       |
+| Tianqi Feng      | Melbourne |                 | No                       |
+| Ruben de Preter  | Melbourne |                 | No                       |
+| Nathan Todd      | UNSW      |                 | Yes                      |
+| Cory Lionis      | Melbourne |                 | No                       |
+
 
