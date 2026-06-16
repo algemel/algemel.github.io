@@ -15,9 +15,9 @@ The University of Melbourne
 
 - Dougal Davis (Melbourne)
 - Gianluca Faraco (Monash)
-- Christian Haesemeyer (Melbourne)
+- [[Christian Haesemeyer]] (Melbourne)
 - Caleb Ji (UNSW)
-- Ian Le (ANU)
+- [[Ian Le]] (ANU)
 - Oliver Li (Melbourne)
 - Yixuan Li (ANU)
 - Svetlana Makarova (ANU)
@@ -25,9 +25,26 @@ The University of Melbourne
 - Uri Onn (ANU)
 - Fei Peng (Melbourne)
 - Behrouz Taji (UNSW)
-- Bailey Whitbread (Sydney)
+- [[Bailey Whitbread]] (Sydney)
 - Yaping Yang (Melbourne)
 - Gufang Zhao (Melbourne)
+
+* Abstracts
+** Christian Haesemeyer
+- Title :: On the higher algebraic K-theory of toric varieties
+- Abstract ::
+  (Split) toric varieties are given by combinatorial data that can be encoded, for example, in an object called a monoid scheme (a scheme built out of commutative monoids). I will report on some ongoing work with Weibel regarding the K- theory of monoid schemes, and explain how it determines that of the associated toric varieties.
+
+** Ian Le
+- Title :: Quasi-algebraic braids
+- Abstract ::
+  I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops ( Spec(C((t)) ) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
+classification/construction of them.
+
+** Bailey Whitbread
+- Title :: The Deligne-Simpson problem, braid stacks, and computers
+- Abstract ::
+  This talk is centred on an old problem about matrices, known as the Deligne–Simpson problem. We will discuss a modern geometric version, called the irregular Deligne–Simpson problem. In joint work with Masoud Kamgarpour, we resolve the irregular Deligne–Simpson problem in many cases by exploiting a connection with the world of braids and braid stacks. I will also discuss how Julia and Codex can contribute to mathematical research.
 
 * Schedule
 
