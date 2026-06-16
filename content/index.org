@@ -1,5 +1,6 @@
 #+title: Algebraic Geometry in Melbourne 
 #+subtitle: 8--10 July 2026 
+#+options: toc:1
 
 #+begin_announcement
 [[file:poster.pdf][Here is a poster (PDF, about 5 MB)]] to advertise this event.
