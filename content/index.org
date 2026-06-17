@@ -14,7 +14,7 @@ The University of Melbourne
 
 * Speakers
 
-- Dougal Davis (Melbourne)
+- [[Dougal Davis]] (Melbourne)
 - Gianluca Faraco (Monash)
 - [[Christian Haesemeyer]] (Melbourne)
 - Caleb Ji (UNSW)
@@ -31,6 +31,11 @@ The University of Melbourne
 - Gufang Zhao (Melbourne)
 
 * Abstracts
+** Dougal Davis
+- Title :: Multivariate V-filtrations and the Strong Monodromy Conjecture for hyperplane arrangements
+- Abstract ::
+  For a hypersurface singularity \(f = 0\), the Strong Monodromy Conjecture of Igusa and Denef-Loeser proposes a surprising connection between poles of zeta functions (defined by \(p\)-adic or motivic integration of \(f\)) and zeroes of Bernstein-Sato polynomials (defined by differential equations satisfied by \(f\)). In this talk, I will discuss a proof of this conjecture when \(f\) is the equation of a hyperplane arrangement with arbitrary multiplicities. The main ingredient is a new approach to Sabbah’s theory of \(V\)-filtrations of holonomic D-modules along divisors with normal crossings, which shows that these filtrations have much better properties than was previously known. I will explain how this general theory works, and outline how the additional control it gives over Bernstein-Sato roots is used to prove the conjecture. This is joint work with Ruijie Yang.
+  
 ** Christian Haesemeyer
 - Title :: On the higher algebraic K-theory of toric varieties
 - Abstract ::
