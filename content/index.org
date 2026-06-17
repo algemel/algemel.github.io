@@ -39,12 +39,12 @@ The University of Melbourne
 ** Christian Haesemeyer
 - Title :: On the higher algebraic K-theory of toric varieties
 - Abstract ::
-  (Split) toric varieties are given by combinatorial data that can be encoded, for example, in an object called a monoid scheme (a scheme built out of commutative monoids). I will report on some ongoing work with Weibel regarding the K- theory of monoid schemes, and explain how it determines that of the associated toric varieties.
+  (Split) toric varieties are given by combinatorial data that can be encoded, for example, in an object called a monoid scheme (a scheme built out of commutative monoids). I will report on some ongoing work with Weibel regarding the K-theory of monoid schemes, and explain how it determines that of the associated toric varieties.
 
 ** Ian Le
 - Title :: Quasi-algebraic braids
 - Abstract ::
-  I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops ( Spec(C((t)) ) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
+  I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops (\(\operatorname{Spec} \mathbf{C}((t))\)) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
 classification/construction of them.
 
 ** Bailey Whitbread
