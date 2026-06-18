@@ -24,7 +24,7 @@ The University of Melbourne
 - Svetlana Makarova (ANU)
 - Scott Mullane (Melbourne)
 - Uri Onn (ANU)
-- Fei Peng (Melbourne)
+- [[Fei Peng]] (Melbourne)
 - Behrouz Taji (UNSW)
 - [[Bailey Whitbread]] (Sydney)
 - Yaping Yang (Melbourne)
@@ -47,6 +47,10 @@ The University of Melbourne
   I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops (\(\operatorname{Spec} \mathbf{C}((t))\)) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
 classification/construction of them.
 
+** Fei Peng
+- Title :: Towards projective coarse moduli spaces of stable super Riemann surfaces
+
+- Abstract :: Super Riemann surfaces play a central role in algebraic supergeometry. In this talk, I will present a stack-theoretic construction of the moduli spaces of stable super Riemann surfaces. The key ingredient is a generalized Keel–Mori theorem on the existence of coarse moduli spaces in the super setting. I will explain how this applies to stable super Riemann surfaces and discuss ongoing questions regarding the projectivity of the resulting coarse moduli spaces.
 ** Bailey Whitbread
 - Title :: The Deligne-Simpson problem, braid stacks, and computers
 - Abstract ::
