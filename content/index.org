@@ -15,17 +15,17 @@ The University of Melbourne
 * Speakers
 
 - [[Dougal Davis]] (Melbourne)
-- Gianluca Faraco (Monash)
+- [[Gianluca Faraco]] (Monash)
 - [[Christian Haesemeyer]] (Melbourne)
-- Caleb Ji (UNSW)
+- [[Caleb Ji]] (UNSW)
 - [[Ian Le]] (ANU)
-- Oliver Li (Melbourne)
+- [[Oliver Li]] (Melbourne)
 - Yixuan Li (ANU)
 - Svetlana Makarova (ANU)
 - Scott Mullane (Melbourne)
 - Uri Onn (ANU)
 - [[Fei Peng]] (Melbourne)
-- Behrouz Taji (UNSW)
+- [[Behrouz Taji]] (UNSW)
 - [[Bailey Whitbread]] (Sydney)
 - Yaping Yang (Melbourne)
 - Gufang Zhao (Melbourne)
@@ -36,10 +36,19 @@ The University of Melbourne
 - Abstract ::
   For a hypersurface singularity \(f = 0\), the Strong Monodromy Conjecture of Igusa and Denef-Loeser proposes a surprising connection between poles of zeta functions (defined by \(p\)-adic or motivic integration of \(f\)) and zeroes of Bernstein-Sato polynomials (defined by differential equations satisfied by \(f\)). In this talk, I will discuss a proof of this conjecture when \(f\) is the equation of a hyperplane arrangement with arbitrary multiplicities. The main ingredient is a new approach to Sabbah’s theory of \(V\)-filtrations of holonomic D-modules along divisors with normal crossings, which shows that these filtrations have much better properties than was previously known. I will explain how this general theory works, and outline how the additional control it gives over Bernstein-Sato roots is used to prove the conjecture. This is joint work with Ruijie Yang.
   
+** Gianluca Faraco
+- Title :: Relative period relation of abelian differential on Riemann surfaces
+
+- Abstract :: A translation surface is defined by an abelian differential on a Riemann surface. Every such pair determines a representation called the absolute period representation or period character. In this seminar we discuss the realisation problem of whether a given representation to arise as the period character of some translation surface, possibly with prescribed data such as the order of singularities, spin structure and hyperelliptic structure. Next we focus on the subtle problem of prescribing the so-called relative periods, thereby answering a question posed by Simion Filip. This is joint work with Dawei Chen.
+
 ** Christian Haesemeyer
 - Title :: On the higher algebraic K-theory of toric varieties
 - Abstract ::
   (Split) toric varieties are given by combinatorial data that can be encoded, for example, in an object called a monoid scheme (a scheme built out of commutative monoids). I will report on some ongoing work with Weibel regarding the K-theory of monoid schemes, and explain how it determines that of the associated toric varieties.
+
+** Caleb Ji
+- Title :: Triangular modular curves and regular polyhedra over finite fields
+- Abstract :: Triangular modular curves, introduced by Clark and Voight, give a variant of modular curves by replacing \(\operatorname{PSL}_2(\Z)\) with triangle groups \(\Delta(a,b,c)\).  In the case that \(a=2\), we give a classification of these triangular modular curves.  Using Clifford algebras, such curves are naturally associated with Grothendieck's regular polyhedra over finite fields.  Our classification thus answers one of Grothendieck's questions regarding these polyhedra.
 
 ** Ian Le
 - Title :: Quasi-algebraic braids
@@ -47,10 +56,20 @@ The University of Melbourne
   I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops (\(\operatorname{Spec} \mathbf{C}((t))\)) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
 classification/construction of them.
 
+** Oliver Li
+- Title :: Pseudo-coherent complexes on algebraic stacks.
+
+- Abstract :: Let \(f \colon X \to Y\) be a proper morphism of locally noetherian schemes. Grothendieck's coherence theorem is the statement that \(R^if_*\) sends coherent sheaves to coherent sheaves. In this talk, I will discuss suitable adaptations of this result to the setting of non-noetherian algebraic stacks. This is joint work in progress with Jack Hall.
 ** Fei Peng
 - Title :: Towards projective coarse moduli spaces of stable super Riemann surfaces
 
 - Abstract :: Super Riemann surfaces play a central role in algebraic supergeometry. In this talk, I will present a stack-theoretic construction of the moduli spaces of stable super Riemann surfaces. The key ingredient is a generalized Keel–Mori theorem on the existence of coarse moduli spaces in the super setting. I will explain how this applies to stable super Riemann surfaces and discuss ongoing questions regarding the projectivity of the resulting coarse moduli spaces.
+
+** Behrouz Taji
+- Title :: Moduli construction for higher dimensional varieties through Hodge theory and GIT
+
+- Abstract :: Deligne–Mumford showed that the geometric notion of stability for curves is intimately connected to GIT‑stability of the corresponding Hilbert‑scheme points (for a suitable choice of linearization). Mumford's construction of the coarse moduli space of stable curves as a GIT‑quotient follows directly from this relationship. In higher dimensions, KSB‑stable varieties, discovered by Kollár and Shepherd-Barron, play the role of stable curves. However, “standard’’ linearizations are known to fail in realizing their coarse moduli space as a GIT‑quotient. Kollár therefore asks whether alternative linearizations might still produce such quotients. We give an affirmative answer: with an appropriate choice of linearization, KSB‑stability implies GIT‑stability. This is based on joint work with S. Kovács.
+
 ** Bailey Whitbread
 - Title :: The Deligne-Simpson problem, braid stacks, and computers
 - Abstract ::
