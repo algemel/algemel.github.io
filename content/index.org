@@ -48,7 +48,7 @@ The University of Melbourne
 
 ** Caleb Ji
 - Title :: Triangular modular curves and regular polyhedra over finite fields
-- Abstract :: Triangular modular curves, introduced by Clark and Voight, give a variant of modular curves by replacing \(\operatorname{PSL}_2(\Z)\) with triangle groups \(\Delta(a,b,c)\).  In the case that \(a=2\), we give a classification of these triangular modular curves.  Using Clifford algebras, such curves are naturally associated with Grothendieck's regular polyhedra over finite fields.  Our classification thus answers one of Grothendieck's questions regarding these polyhedra.
+- Abstract :: Triangular modular curves, introduced by Clark and Voight, give a variant of modular curves by replacing \(\operatorname{PSL}_2(\mathbf{Z})\) with triangle groups \(\Delta(a,b,c)\).  In the case that \(a=2\), we give a classification of these triangular modular curves.  Using Clifford algebras, such curves are naturally associated with Grothendieck's regular polyhedra over finite fields.  Our classification thus answers one of Grothendieck's questions regarding these polyhedra.
 
 ** Ian Le
 - Title :: Quasi-algebraic braids
