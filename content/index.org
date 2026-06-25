@@ -2,10 +2,6 @@
 #+subtitle: 8--10 July 2026 
 #+options: toc:1
 
-#+begin_announcement
-[[file:poster.pdf][Here is a poster (PDF, about 5 MB)]] to advertise this event.
-#+end_announcement
-
 * Venue
 :PROPERTIES:
 :UNNUMBERED: notoc
@@ -120,6 +116,9 @@ On [[Schedule][Fri (10 Jul) at 4:00]].
 If you want to attend, please [[mailto:anand.deopurkar@anu.edu.au?subject=%5BAlgemel26%5D%20Interest%20in%20attending&body=I%20would%20like%20to%20attend%20Algebraic%20Geometry%20in%20Melbourne%20in%20July%202026.%20%20Thanks!][send an email to the organiser at ANU.]]
 If you are a student or an early career researcher, please indicate if you need financial support. 
 We may be able to provide a limited amount.
+
+Please advertise this event in your department.
+We have a [[file:poster.pdf][poster (PDF, about 5 MB)]] to help with that.
 
 * Organisers
 :PROPERTIES:
