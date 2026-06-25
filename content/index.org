@@ -27,11 +27,15 @@ The University of Melbourne
 - [[Fei Peng]] (Melbourne)
 - [[Behrouz Taji]] (UNSW)
 - [[Bailey Whitbread]] (Sydney)
-- Yaping Yang (Melbourne)
+- [[Yaping Yang]] (Melbourne)
 - Gufang Zhao (Melbourne)
 
+* Schedule
+
+We will start on Wednesday at 9 and end on Friday at 5.  We will post a detailed scheduled soon. 
+
 * Abstracts
-** Dougal Davis
+** Dougal Davis 
 - Title :: Multivariate V-filtrations and the Strong Monodromy Conjecture for hyperplane arrangements
 - Abstract ::
   For a hypersurface singularity \(f = 0\), the Strong Monodromy Conjecture of Igusa and Denef-Loeser proposes a surprising connection between poles of zeta functions (defined by \(p\)-adic or motivic integration of \(f\)) and zeroes of Bernstein-Sato polynomials (defined by differential equations satisfied by \(f\)). In this talk, I will discuss a proof of this conjecture when \(f\) is the equation of a hyperplane arrangement with arbitrary multiplicities. The main ingredient is a new approach to Sabbah’s theory of \(V\)-filtrations of holonomic D-modules along divisors with normal crossings, which shows that these filtrations have much better properties than was previously known. I will explain how this general theory works, and outline how the additional control it gives over Bernstein-Sato roots is used to prove the conjecture. This is joint work with Ruijie Yang.
@@ -75,9 +79,9 @@ classification/construction of them.
 - Abstract ::
   This talk is centred on an old problem about matrices, known as the Deligne–Simpson problem. We will discuss a modern geometric version, called the irregular Deligne–Simpson problem. In joint work with Masoud Kamgarpour, we resolve the irregular Deligne–Simpson problem in many cases by exploiting a connection with the world of braids and braid stacks. I will also discuss how Julia and Codex can contribute to mathematical research.
 
-* Schedule
-
-TBA
+** Yaping Yang
+- Title :: Cohomological Hall algebras and line operators
+- Abstract :: We construct, from a general quiver with potential, a triangulated monoidal category, which we call the category of lines. In the case of ADE Dynkin quiver, we establish a monoidal equivalence between the construction above and the category of BPS line operators in \(4d\), \(N=2\) pure gauge theory, constructed by Braverman, Finkelberg, and Nakajima, further developed by Cautis and Williams. Finally, we discuss gauge theories with matters. This talk is based on ongoing joint work with Ryo Fujita, Yan Soibelman, and Gufang Zhao.
 
 * Registration
 
@@ -98,5 +102,6 @@ We may be able to provide a limited amount.
 :PROPERTIES:
 :UNNUMBERED: notoc
 :END:
-We are supported in part by funds from the Australian Research Council.
+We are supported in part by funds from the Australian Research Council FT210100405 and the University of Melbourne.
+
 
