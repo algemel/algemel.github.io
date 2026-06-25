@@ -20,69 +20,102 @@ The University of Melbourne
 - [[Caleb Ji]] (UNSW)
 - [[Ian Le]] (ANU)
 - [[Oliver Li]] (Melbourne)
-- Yixuan Li (ANU)
-- Svetlana Makarova (ANU)
-- Scott Mullane (Melbourne)
-- Uri Onn (ANU)
+- [[Yixuan Li]] (ANU)
+- [[Svetlana Makarova]] (ANU)
+- [[Scott Mullane]] (Melbourne)
+- [[Uri Onn]] (ANU)
 - [[Fei Peng]] (Melbourne)
 - [[Behrouz Taji]] (UNSW)
 - [[Bailey Whitbread]] (Sydney)
 - [[Yaping Yang]] (Melbourne)
-- Gufang Zhao (Melbourne)
+- [[Gufang Zhao]] (Melbourne)
 
 * Schedule
+The talks are 50 minutes with 5--10 more minutes for questions.  We will break for morning tea at 10:00, lunch at 12:30, and afternoon tea at 3:30.
 
-We will start on Wednesday at 9 and end on Friday at 5.  We will post a detailed scheduled soon. 
+|-------+-------------+-------------+--------------|
+|       | Wed (8 Jul) | Thu (9 Jul) | Fri (10 Jul) |
+|-------+-------------+-------------+--------------|
+|  9:00 | [[Christian Haesemeyer][Christian]]   | [[Behrouz Taji][Behrouz]]     | [[Uri Onn][Uri]]          |
+| 10:30 | [[Dougal Davis][Dougal]]      | [[Svetlana Makarova][Svetlana]]    | [[Yixuan Li][Yixuan]]       |
+| 11:30 | [[Fei Peng][Fei]]         | [[Oliver Li][Oliver]]      | [[Gianluca Faraco][Gianluca]]     |
+|  2:30 | [[Yaping Yang][Yaping]]      | [[Gianluca Faraco][Ian]]         | [[Scott Mullane][Scott]]        |
+|  4:00 | [[Caleb Ji][Caleb]]       | [[Bailey Whitbread][Bailey]]      | [[Gufang Zhao.][Gufang]]       |
+|       |             |             |              |
+|-------+-------------+-------------+--------------|
 
 * Abstracts
-** Dougal Davis 
-- Title :: Multivariate V-filtrations and the Strong Monodromy Conjecture for hyperplane arrangements
-- Abstract ::
-  For a hypersurface singularity \(f = 0\), the Strong Monodromy Conjecture of Igusa and Denef-Loeser proposes a surprising connection between poles of zeta functions (defined by \(p\)-adic or motivic integration of \(f\)) and zeroes of Bernstein-Sato polynomials (defined by differential equations satisfied by \(f\)). In this talk, I will discuss a proof of this conjecture when \(f\) is the equation of a hyperplane arrangement with arbitrary multiplicities. The main ingredient is a new approach to Sabbah’s theory of \(V\)-filtrations of holonomic D-modules along divisors with normal crossings, which shows that these filtrations have much better properties than was previously known. I will explain how this general theory works, and outline how the additional control it gives over Bernstein-Sato roots is used to prove the conjecture. This is joint work with Ruijie Yang.
-  
-** Gianluca Faraco
-- Title :: Relative period relation of abelian differential on Riemann surfaces
-
-- Abstract :: A translation surface is defined by an abelian differential on a Riemann surface. Every such pair determines a representation called the absolute period representation or period character. In this seminar we discuss the realisation problem of whether a given representation to arise as the period character of some translation surface, possibly with prescribed data such as the order of singularities, spin structure and hyperelliptic structure. Next we focus on the subtle problem of prescribing the so-called relative periods, thereby answering a question posed by Simion Filip. This is joint work with Dawei Chen.
-
+Ordered according to the schedule.
 ** Christian Haesemeyer
+On [[Schedule][Wed (8 Jul) at  9:00]].
 - Title :: On the higher algebraic K-theory of toric varieties
 - Abstract ::
   (Split) toric varieties are given by combinatorial data that can be encoded, for example, in an object called a monoid scheme (a scheme built out of commutative monoids). I will report on some ongoing work with Weibel regarding the K-theory of monoid schemes, and explain how it determines that of the associated toric varieties.
 
-** Caleb Ji
-- Title :: Triangular modular curves and regular polyhedra over finite fields
-- Abstract :: Triangular modular curves, introduced by Clark and Voight, give a variant of modular curves by replacing \(\operatorname{PSL}_2(\mathbf{Z})\) with triangle groups \(\Delta(a,b,c)\).  In the case that \(a=2\), we give a classification of these triangular modular curves.  Using Clifford algebras, such curves are naturally associated with Grothendieck's regular polyhedra over finite fields.  Our classification thus answers one of Grothendieck's questions regarding these polyhedra.
-
-** Ian Le
-- Title :: Quasi-algebraic braids
+** Dougal Davis
+On [[Schedule][Wed (8 Jul) at 10:30]].
+- Title :: Multivariate V-filtrations and the Strong Monodromy Conjecture for hyperplane arrangements
 - Abstract ::
-  I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops (\(\operatorname{Spec} \mathbf{C}((t))\)) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete 
-classification/construction of them.
-
-** Oliver Li
-- Title :: Pseudo-coherent complexes on algebraic stacks.
-
-- Abstract :: Let \(f \colon X \to Y\) be a proper morphism of locally noetherian schemes. Grothendieck's coherence theorem is the statement that \(R^if_*\) sends coherent sheaves to coherent sheaves. In this talk, I will discuss suitable adaptations of this result to the setting of non-noetherian algebraic stacks. This is joint work in progress with Jack Hall.
+  For a hypersurface singularity \(f = 0\), the Strong Monodromy Conjecture of Igusa and Denef-Loeser proposes a surprising connection between poles of zeta functions (defined by \(p\)-adic or motivic integration of \(f\)) and zeroes of Bernstein-Sato polynomials (defined by differential equations satisfied by \(f\)). In this talk, I will discuss a proof of this conjecture when \(f\) is the equation of a hyperplane arrangement with arbitrary multiplicities. The main ingredient is a new approach to Sabbah’s theory of \(V\)-filtrations of holonomic D-modules along divisors with normal crossings, which shows that these filtrations have much better properties than was previously known. I will explain how this general theory works, and outline how the additional control it gives over Bernstein-Sato roots is used to prove the conjecture. This is joint work with Ruijie Yang.
+  
 ** Fei Peng
+On [[Schedule][Wed (8 Jul) at 11:30]].
 - Title :: Towards projective coarse moduli spaces of stable super Riemann surfaces
 
 - Abstract :: Super Riemann surfaces play a central role in algebraic supergeometry. In this talk, I will present a stack-theoretic construction of the moduli spaces of stable super Riemann surfaces. The key ingredient is a generalized Keel–Mori theorem on the existence of coarse moduli spaces in the super setting. I will explain how this applies to stable super Riemann surfaces and discuss ongoing questions regarding the projectivity of the resulting coarse moduli spaces.
 
+** Yaping Yang
+On [[Schedule][Wed (8 Jul) at 2:30]].
+- Title :: Cohomological Hall algebras and line operators
+- Abstract :: We construct, from a general quiver with potential, a triangulated monoidal category, which we call the category of lines. In the case of ADE Dynkin quiver, we establish a monoidal equivalence between the construction above and the category of BPS line operators in \(4d\), \(N=2\) pure gauge theory, constructed by Braverman, Finkelberg, and Nakajima, further developed by Cautis and Williams. Finally, we discuss gauge theories with matters. This talk is based on ongoing joint work with Ryo Fujita, Yan Soibelman, and Gufang Zhao.
+
+** Caleb Ji
+On [[Schedule][Wed (8 Jul) at 4:00]].
+- Title :: Triangular modular curves and regular polyhedra over finite fields
+- Abstract :: Triangular modular curves, introduced by Clark and Voight, give a variant of modular curves by replacing \(\operatorname{PSL}_2(\mathbf{Z})\) with triangle groups \(\Delta(a,b,c)\).  In the case that \(a=2\), we give a classification of these triangular modular curves.  Using Clifford algebras, such curves are naturally associated with Grothendieck's regular polyhedra over finite fields.  Our classification thus answers one of Grothendieck's questions regarding these polyhedra.
+
 ** Behrouz Taji
+On [[Schedule][Thu (9 Jul) at 09:00]].
 - Title :: Moduli construction for higher dimensional varieties through Hodge theory and GIT
 
 - Abstract :: Deligne–Mumford showed that the geometric notion of stability for curves is intimately connected to GIT‑stability of the corresponding Hilbert‑scheme points (for a suitable choice of linearization). Mumford's construction of the coarse moduli space of stable curves as a GIT‑quotient follows directly from this relationship. In higher dimensions, KSB‑stable varieties, discovered by Kollár and Shepherd-Barron, play the role of stable curves. However, “standard’’ linearizations are known to fail in realizing their coarse moduli space as a GIT‑quotient. Kollár therefore asks whether alternative linearizations might still produce such quotients. We give an affirmative answer: with an appropriate choice of linearization, KSB‑stability implies GIT‑stability. This is based on joint work with S. Kovács.
 
+** Svetlana Makarova
+On [[Schedule][Thu (9 Jul) at 10:30]].
+** Oliver Li
+On [[Schedule][Thu (9 Jul) at 11:30]].
+- Title :: Pseudo-coherent complexes on algebraic stacks.
+
+- Abstract :: Let \(f \colon X \to Y\) be a proper morphism of locally noetherian schemes. Grothendieck's coherence theorem is the statement that \(R^if_*\) sends coherent sheaves to coherent sheaves. In this talk, I will discuss suitable adaptations of this result to the setting of non-noetherian algebraic stacks. This is joint work in progress with Jack Hall.
+** Ian Le
+On [[Schedule][Thu (9 Jul) at 2:30]].
+- Title :: Quasi-algebraic braids
+- Abstract ::
+  I will talk about some joint work in progress with Konstantin Jakob and Masoud Kamgarpour in which we define quasi-algebraic braids. These are braids coming from maps of formal loops (\(\operatorname{Spec} \mathbf{C}((t))\)) into a hyperplane complement.  These arise naturally in two ways: 1) as links of singularities of plane curves 2) as Stokes data for irregular singularities. It turns out that algebraic braids are quite a restrictive class. I'll give explain a complete classification/construction of them.
+
 ** Bailey Whitbread
+On [[Schedule][Thu (9 Jul) at 4:00]].
 - Title :: The Deligne-Simpson problem, braid stacks, and computers
 - Abstract ::
   This talk is centred on an old problem about matrices, known as the Deligne–Simpson problem. We will discuss a modern geometric version, called the irregular Deligne–Simpson problem. In joint work with Masoud Kamgarpour, we resolve the irregular Deligne–Simpson problem in many cases by exploiting a connection with the world of braids and braid stacks. I will also discuss how Julia and Codex can contribute to mathematical research.
 
-** Yaping Yang
-- Title :: Cohomological Hall algebras and line operators
-- Abstract :: We construct, from a general quiver with potential, a triangulated monoidal category, which we call the category of lines. In the case of ADE Dynkin quiver, we establish a monoidal equivalence between the construction above and the category of BPS line operators in \(4d\), \(N=2\) pure gauge theory, constructed by Braverman, Finkelberg, and Nakajima, further developed by Cautis and Williams. Finally, we discuss gauge theories with matters. This talk is based on ongoing joint work with Ryo Fujita, Yan Soibelman, and Gufang Zhao.
+** Uri Onn
+On [[Schedule][Fri (10 Jul) at 09:00]].
+- Title :: On representation zeta functions in positive characteristic 
 
+- Abstract :: Representation zeta functions are Dirichlet generating functions associated with the representation growth of groups, encoding the numbers of irreducible representations of each dimension. The representation zeta functions of \(p\)-adic and arithmetic groups in characteristic zero have been studied extensively over the past two decades. By contrast, the positive-characteristic case remains comparatively unexplored, owing in part to the absence of the orbit method and the limited availability of resolution-of-singularities techniques. In this lecture, I will survey some of the known results in this area and present recent joint work with Amritanshu Prasad and Pooja Singla on the representation zeta functions of groups of type \(A_2\).
+** Yixuan Li
+On [[Schedule][Fri (10 Jul) at 10:30]].
+** Gianluca Faraco
+On [[Schedule][Fri (10 Jul) at 11:30]].
+- Title :: Relative period relation of abelian differential on Riemann surfaces
+
+- Abstract :: A translation surface is defined by an abelian differential on a Riemann surface. Every such pair determines a representation called the absolute period representation or period character. In this seminar we discuss the realisation problem of whether a given representation to arise as the period character of some translation surface, possibly with prescribed data such as the order of singularities, spin structure and hyperelliptic structure. Next we focus on the subtle problem of prescribing the so-called relative periods, thereby answering a question posed by Simion Filip. This is joint work with Dawei Chen.
+
+** Scott Mullane
+On [[Schedule][Fri (10 Jul) at 2:30]].
+** Gufang Zhao
+On [[Schedule][Fri (10 Jul) at 4:00]].
 * Registration
 
 If you want to attend, please [[mailto:anand.deopurkar@anu.edu.au?subject=%5BAlgemel26%5D%20Interest%20in%20attending&body=I%20would%20like%20to%20attend%20Algebraic%20Geometry%20in%20Melbourne%20in%20July%202026.%20%20Thanks!][send an email to the organiser at ANU.]]
