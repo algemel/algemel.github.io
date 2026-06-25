@@ -33,15 +33,15 @@ The University of Melbourne
 * Schedule
 The talks are 50 minutes with 5--10 more minutes for questions.  We will break for morning tea at 10:00, lunch at 12:30, and afternoon tea at 3:30.
 
-|-------+-------------+-------------+--------------|
-|       | Wed (8 Jul) | Thu (9 Jul) | Fri (10 Jul) |
-|-------+-------------+-------------+--------------|
-|  9:00 | [[Christian Haesemeyer][Christian]]   | [[Behrouz Taji][Behrouz]]     | [[Uri Onn][Uri]]          |
-| 10:30 | [[Dougal Davis][Dougal]]      | [[Svetlana Makarova][Svetlana]]    | [[Yixuan Li][Yixuan]]       |
-| 11:30 | [[Fei Peng][Fei]]         | [[Oliver Li][Oliver]]      | [[Gianluca Faraco][Gianluca]]     |
-|  2:30 | [[Yaping Yang][Yaping]]      | [[Gianluca Faraco][Ian]]         | [[Scott Mullane][Scott]]        |
-|  4:00 | [[Caleb Ji][Caleb]]       | [[Bailey Whitbread][Bailey]]      | [[Gufang Zhao][Gufang]]       |
-|-------+-------------+-------------+--------------|
+|-------+-------------------------------------+---------------------------------+-------------------------------|
+|       | Wed (8 Jul)                         | Thu (9 Jul)                     | Fri (10 Jul)                  |
+|-------+-------------------------------------+---------------------------------+-------------------------------|
+|  9:00 | [[Christian Haesemeyer][Christian]] | [[Behrouz Taji][Behrouz]]       | [[Uri Onn][Uri]]              |
+| 10:30 | [[Dougal Davis][Dougal]]            | [[Svetlana Makarova][Svetlana]] | [[Yixuan Li][Yixuan]]         |
+| 11:30 | [[Fei Peng][Fei]]                   | [[Oliver Li][Oliver]]           | [[Gianluca Faraco][Gianluca]] |
+|  2:30 | [[Yaping Yang][Yaping]]             | [[Ian Le][Ian]]                 | [[Scott Mullane][Scott]]      |
+|  4:00 | [[Caleb Ji][Caleb]]                 | [[Bailey Whitbread][Bailey]]    | [[Gufang Zhao][Gufang]]       |
+|-------+-------------------------------------+---------------------------------+-------------------------------|
 
 * Abstracts
 Ordered according to the schedule.
