@@ -11,6 +11,6 @@
 | Nathan Todd      | UNSW      |                 | Yes                      |
 | Cory Lionis      | Melbourne |                 | No                       |
 | Marcel Dang      | Melbourne |                 | No                       |
-
+| Samuel Jerald    | Sydney    |                 | No                       |
 
 
