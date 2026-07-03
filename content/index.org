@@ -106,6 +106,10 @@ On [[Schedule][Fri (10 Jul) at 09:00]].
 - Abstract :: Representation zeta functions are Dirichlet generating functions associated with the representation growth of groups, encoding the numbers of irreducible representations of each dimension. The representation zeta functions of \(p\)-adic and arithmetic groups in characteristic zero have been studied extensively over the past two decades. By contrast, the positive-characteristic case remains comparatively unexplored, owing in part to the absence of the orbit method and the limited availability of resolution-of-singularities techniques. In this lecture, I will survey some of the known results in this area and present recent joint work with Amritanshu Prasad and Pooja Singla on the representation zeta functions of groups of type \(A_2\).
 ** Yixuan Li
 On [[Schedule][Fri (10 Jul) at 10:30]].
+
+- Title :: Atiyah Flops and Lie Superalgebras
+
+- Abstract :: This is based on joint work with Mina Aganagic, Jinghang Miao, Spencer Tamagni and Peng Zhou. McKay correspondence for ADE Lie algebras gives geometric realizations of ADE root systems via the ADE surface singularities. More precisely, the Dynkin diagram can be read off from the intersection matrix of the exceptional divisors in the minimal resolutions of the ADE singularities. In this talk we generalize this picture to the case of Lie superalgebra \(\operatorname{gl}(m|n)\). The new phenomenon is that there are multiple inequivalent Dynkin diagrams associated to \(\operatorname{gl}(m|n)\), related by the action of the Weyl groupoid. We will see that this corresponds geometrically to the various minimal resolutions of the 3-fold singularity \(xy = z^mw^n\), related by Atiyah flops.
 ** Gianluca Faraco
 On [[Schedule][Fri (10 Jul) at 11:30]].
 - Title :: Relative period relation of abelian differential on Riemann surfaces

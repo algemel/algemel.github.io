@@ -1,4 +1,4 @@
-#+name: ag
++name: ag
 | Name                 | Uni       | Supervisor      | Fin. sup? | Role      | Email                                 |
 |----------------------+-----------+-----------------+-----------+-----------+---------------------------------------|
 | Anand Deopurkar      | ANU       |                 |           | Organiser | Anand.Deopurkar@anu.edu.au            |
@@ -33,7 +33,8 @@
 | Marcel Dang          | Melbourne |                 | No        |           | marcel.dang@student.unimelb.edu.au    |
 | Brice Arrigo         | Melbourne |                 | No        |           | brice.arrigo@student.unimelb.edu.au   |
 | Dom Vlach            | Melbourne |                 | No        |           | dvlachos@student.unimelb.edu.au       |
-
+| Sinead Wilson        | UNSW      |                 |           |           | sinead.wilson@unsw.edu.au             |
+| Phoenix Pham         | Melbourne |                 | No        |           | phoenix.pham@student.unimelb.edu.au   |
 
 A list of all email addresses is below (for copy/paste):
 
