@@ -127,12 +127,14 @@ On [[Schedule][Fri (10 Jul) at 2:30]].
 On [[Schedule][Fri (10 Jul) at 4:00]].
 * Registration
 
-If you want to attend, please [[mailto:anand.deopurkar@anu.edu.au?subject=%5BAlgemel26%5D%20Interest%20in%20attending&body=I%20would%20like%20to%20attend%20Algebraic%20Geometry%20in%20Melbourne%20in%20July%202026.%20%20Thanks!][send an email to the organiser at ANU.]]
+If you want to attend, please [[mailto:anand.deopurkar@anu.edu.au?subject=%5BAlgemel26%5D%20Interest%20in%20attending&body=I%20would%20like%20to%20attend%20Algebraic%20Geometry%20in%20Melbourne%20in%20July%202026.%20%20Thanks!][send an email to Anand Deopurkar.]]
 If you are a student or an early career researcher, please indicate if you need financial support. 
 We may be able to provide a limited amount.
 
 Please advertise this event in your department.
 We have a [[file:poster.pdf][poster (PDF, about 5 MB)]] to help with that.
+
+For reimbursements, please email your receipts (PDF) to Jack Hall after the workshop.
 
 * Organisers
 :PROPERTIES:
