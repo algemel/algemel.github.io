@@ -31,7 +31,7 @@ The University of Melbourne
 * Schedule
 The talks are 50 minutes with 5--10 more minutes for questions.  We will break for morning tea at 10:00, lunch at 12:30, and afternoon tea at 3:30.
 
-The talks are in in [[https://maps.unimelb.edu.au/point?identifier=PAR;160;0;G03][Evan Williams (G03, Peter Hall Building)]].  
+The talks are in [[https://maps.unimelb.edu.au/point?identifier=PAR;160;0;G03][Evan Williams (G03, Peter Hall Building)]].  
 Morning/afternoon tea is in the tea room on the ground floor of the Peter Hall building.
 
 |-------+-------------+-------------+--------------|
