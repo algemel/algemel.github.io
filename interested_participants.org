@@ -45,3 +45,15 @@ A list of all email addresses is below (for copy/paste):
 
 #+RESULTS:
 : Anand.Deopurkar@anu.edu.au, jack.hall@unimelb.edu.au, norbury@unimelb.edu.au, dougal.davis1@unimelb.edu.au, gianluca.faraco@monash.edu, christian.haesemeyer@unimelb.edu.au, caleb.ji@unsw.edu.au, Ian.Le@anu.edu.au, li.o@unimelb.edu.au, Yixuan.Li3@anu.edu.au, Svetlana.Makarova@anu.edu.au, mullanes@unimelb.edu.au, uri.onn@anu.edu.au, f.peng7@student.unimelb.edu.au, b.taji@unsw.edu.au, bwhi0350@uni.sydney.edu.au, yaping.yang1@unimelb.edu.au, gufangz@unimelb.edu.au, stefano.giannini@adelaide.edu.au, d.matan@unsw.edu.au, Snehinh.Sen@anu.edu.au, Leyao.Zha@anu.edu.au, junjie.chen12@student.unimelb.edu.au, peterjmcn@gmail.com, tianqi.feng@student.unimelb.edu.au, ruben.depreter@student.unimelb.edu.au, nathan.todd@unsw.edu.au, corey1057105@gmail.com, samuel.jeralds@sydney.edu.au, marcel.dang@student.unimelb.edu.au, brice.arrigo@student.unimelb.edu.au, dvlachos@student.unimelb.edu.au, sinead.wilson@unsw.edu.au, phoenix.pham@student.unimelb.edu.au, monteleonea@student.unimelb.edu.au
+
+Speakers
+#+begin_src elisp :noweb yes :var participants=ag
+  (string-join (remove nil (mapcar (lambda (part)
+  				   (and (string= (nth 4 part) "Speaker")
+  					(nth 5 part)))
+  				 participants))
+  	     ", ")
+#+end_src
+
+#+RESULTS:
+: dougal.davis1@unimelb.edu.au, gianluca.faraco@monash.edu, christian.haesemeyer@unimelb.edu.au, caleb.ji@unsw.edu.au, Ian.Le@anu.edu.au, li.o@unimelb.edu.au, Yixuan.Li3@anu.edu.au, Svetlana.Makarova@anu.edu.au, mullanes@unimelb.edu.au, uri.onn@anu.edu.au, f.peng7@student.unimelb.edu.au, b.taji@unsw.edu.au, bwhi0350@uni.sydney.edu.au, yaping.yang1@unimelb.edu.au, gufangz@unimelb.edu.au

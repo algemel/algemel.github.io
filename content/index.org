@@ -123,6 +123,10 @@ On [[Schedule][Fri (10 Jul) at 11:30]].
 
 ** Scott Mullane
 On [[Schedule][Fri (10 Jul) at 2:30]].
+
+- Title :: Arithmetic of moduli spaces: Weighted and unweighted point counts and motivic classes in the Grothendieck ring
+
+- Abstract :: A natural arithmetic question in moduli theory is how many isomorphism classes of a geometric object (say, curves or principally polarised abelian varieties of a fixed type) there are over a fixed finite field. We begin by unravelling the question, the connections of the answer to the cohomology of the moduli space, and discussing known results. Then we’ll introduce Ekedahl’s Grothendieck ring of stacks, a generalisation of Grothendieck’s original construction for varieties, that not only encodes the answer over all finite fields simultaneously, but encodes the information of all additive invariants of the moduli stack. (This is part of work in progress with Di Lorenzo, Grushevsky, Hulek, and Park.)
 ** Gufang Zhao
 On [[Schedule][Fri (10 Jul) at 4:00]].
 * Registration
